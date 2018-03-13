@@ -3801,3 +3801,14 @@
 			}
 
 		}
+
+.partner-wrap{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.logo-samsung{
+    width: 15.25em;
+    margin: 0 0 30px;
+}
