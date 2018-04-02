@@ -27,3 +27,16 @@
     width: 13em;
     height: 13em;
 }
+
+.where-wrap{
+    display: flex;
+}
+
+.where-text{
+    margin-right: 10px;
+    text-align: left;
+}
+
+.where-text ul{
+    list-style: none;
+}
