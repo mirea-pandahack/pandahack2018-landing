@@ -40,3 +40,22 @@
 .where-text ul{
     list-style: none;
 }
+
+.about-wrap{
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+}
+
+.about-wrap ul{
+    list-style: none;
+}
+
+.about-wrap div{
+    min-width: 50%;
+}
+
+
+.about-wrap__right{
+    padding-left: 10px;
+}
