@@ -32,6 +32,16 @@
     display: flex;
 }
 
+@media screen and (max-width: 900px) {
+    .where-wrap{
+        flex-direction: column;
+    }
+}
+
+.where-map{
+    width: 100%;
+}
+
 .where-text{
     margin-right: 10px;
     text-align: left;
