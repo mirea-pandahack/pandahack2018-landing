@@ -152,3 +152,7 @@
     background-image: -ms-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
     background-image: linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
 }
+
+.li-full__width{
+    width: 100% !important;
+}
