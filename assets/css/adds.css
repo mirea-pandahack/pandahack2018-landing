@@ -182,3 +182,9 @@
 .partners-page h2{
     font-weight: 500;
 }
+
+@media screen and (min-width: 900px) {
+    .faq-mobile-link{
+        display: none;
+    }
+}
