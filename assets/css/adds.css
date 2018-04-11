@@ -156,3 +156,25 @@
 .li-full__width{
     width: 100% !important;
 }
+
+.faq{
+
+}
+
+.faq .nice-h3{
+    font-weight: 500;
+    text-align: left;
+}
+
+.faq .nice-h3:after{
+    margin: 0;
+    width: 100%;
+}
+
+.faq .tasks-list ul{
+    padding-left: 0;
+}
+
+.faq .tasks-list li{
+    margin-left: 0;
+}
