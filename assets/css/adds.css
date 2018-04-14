@@ -282,3 +282,12 @@
 .info img{
     max-width: 100%;
 }
+
+/*Map*/
+.map-time li{
+    list-style: none;
+}
+
+.map-img img{
+    max-width: 100%;
+}
